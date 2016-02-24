@@ -1,7 +1,8 @@
-package main
+package hello
 
 import "fmt"
 
 func main() {
-	fmt.Print("yo\n")
+	fmt.Print("World\n")
+	fmt.Print("wold\n")
 }
